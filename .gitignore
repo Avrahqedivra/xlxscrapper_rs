@@ -1,0 +1,15 @@
+# Rust
+/target
+
+# JetBrains IDEs
+.idea/
+*.iml
+
+# Project specific
+table_data/
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+/config.json

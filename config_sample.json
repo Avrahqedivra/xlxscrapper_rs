@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://xlx.reflector1.com/index.php",
+    "interval_seconds": 1,
+    "output_dir": "table_data/reflector1",
+    "output_file": "reflector1.json",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "timeout_seconds": 30
+  },
+  {
+    "url": "http://xlx.reflector2.fr/",
+    "interval_seconds": 2,
+    "output_dir": "table_data/reflector2",
+    "output_file": "reflector2.json",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "timeout_seconds": 30
+  }
+]
