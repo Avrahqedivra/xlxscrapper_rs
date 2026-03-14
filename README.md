@@ -159,7 +159,7 @@ On every scrape the serialised JSON is hashed with SHA-256. The hash is held in 
   unchanged — skipped write
 
 [target=0] 71 rows scraped
-  saved → table_data/xlx933/xlx933.json
+  saved → table_data/reflector2/reflector2.json
 ```
 
 On the first run `last_hash` is `None`, so the file is always written at startup — ensuring your watcher has a file to read immediately.
