@@ -1,4 +1,4 @@
-# XLX Dashboard Scraper
+# RUST XLX Dashboard Scraper
 
 A Rust scraper that periodically fetches XLX dashboard pages, parses their data tables into JSON, and writes to disk only when the content has actually changed — making it easy to trigger downstream processes via file-watch.
 
